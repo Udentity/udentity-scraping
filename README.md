@@ -11,6 +11,7 @@ pip3 install jupyter
 
 # Getting started
 - Clone the repository
+- Start jupyter notebook from the repository folder 
 ```
 cd <project_name>
 jupyter notebook
